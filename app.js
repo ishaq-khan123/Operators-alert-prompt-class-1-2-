@@ -1,4 +1,4 @@
-console.log("hello world");         // console is used for debuging
+// console.log("hello world");         // console is used for debuging
 
 // 15 !== 15 && 8 * 2 !== 20 || 'hello' === 'world' && 10 > 15 || 6 === '6'
 //false && true || false && false || false
