@@ -4,54 +4,47 @@ console.log("hello world");         // console is used for debuging
 //false && true || false && false || false
 // false || false || false
 //false
-console.log(15 !== 15 && 8 * 2 !== 20 || 'hello' === 'world' && 10 > 15 || 6 === '6');
 
 // 9 > 8 && 3 + 7 === 11 || 4 !== '4' && 10 - 2 === 8 || 5 * 3 === 15
 //true && false || true && true || true
 //false || true || true
 //true
-console.log(9 > 8 && 3 + 7 === 11 || 4 !== '4' && 10 - 2 === 8 || 5 * 3 === 15);
 
 // 0 === false && 7 * 2 === 14 || 'True' === true && 5 !== '5' || 6 + 6 === 12
 //false && true || false && true || true
 //false || false ||true
 //true
-console.log(0 === false && 7 * 2 === 14 || 'True' === true && 5 !== '5' || 6 + 6 === 12);
 
 // 'a' !== 'A' && 3 * 3 === 9 || 4 < 4 && 10 / 2 === 5 || 8 === '8'
 //true && true || false && true || fasle
 //true || false || false
 //true
-console.log('a' !== 'A' && 3 * 3 === 9 || 4 < 4 && 10 / 2 === 5 || 8 === '8');
 
 // 100 / 10 === 10 && 7 === 7 || 3 * 2 !== 7 && 'hello' === 'hello' || 9 > 12
 //true && true || true && true || false
 //true || true ||false
 //true
-console.log(100 / 10 === 10 && 7 === 7 || 3 * 2 !== 7 && 'hello' === 'hello' || 9 > 12);
 
 // 20 / 4 === 5 && 3 + 5 === 8 || 8 === 8 && 'yes' !== 'YES' || 12 === '12'
 //true && true || true && true || false
 //true || false || false
 //true
-console.log(20 / 4 === 5 && 3 + 5 === 8 || 8 === 8 && 'yes' !== 'YES' || 12 === '12');
 
 // 6 > 5 && 4 * 2 !== 10 || 7 === 6 + 1 && 'no' === 'yes' || 100 !== 100
 //true && true || true && true || false
 //true ||true || false
 //true
-console.log(6 > 5 && 4 * 2 !== 10 || 7 === 6 + 1 && 'no' === 'yes' || 100 !== 100);
 
 // 5 === '5' || 8 / 2 !== 5 && 4 + 6 === 11 || 9 === 8 + 1 && 'abc' !== 'ABC'
 //false || true && false || true && true
 // false || false || true
 // true
-console.log(5 === '5' || 8 / 2 !== 5 && 4 + 6 === 11 || 9 === 8 + 1 && 'abc' !== 'ABC');
 
 // true && false || 4 * 2 === 8 && 'hello' === 'hello' || 5 !== '5' && 3 < 5
 //false || true && true || true && true
 //false || true || true
 //true
+console.log(true && false || 4 * 2 === 8 && 'hello' === 'hello' || 5 !== '5' && 3 < 5);
 
 // false && true || 'red' === 'blue' && 5 + 5 === 10 || 6 === '6' && 9 > 8
 //false || false && true || false && true
