@@ -46,6 +46,7 @@ console.log(6 > 5 && 4 * 2 !== 10 || 7 === 6 + 1 && 'no' === 'yes' || 100 !== 10
 //false || true && false || true && true
 // false || false || true
 // true
+console.log(5 === '5' || 8 / 2 !== 5 && 4 + 6 === 11 || 9 === 8 + 1 && 'abc' !== 'ABC');
 
 // true && false || 4 * 2 === 8 && 'hello' === 'hello' || 5 !== '5' && 3 < 5
 //false || true && true || true && true
