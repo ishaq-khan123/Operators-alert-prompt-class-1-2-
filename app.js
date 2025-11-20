@@ -22,6 +22,7 @@ console.log(0 === false && 7 * 2 === 14 || 'True' === true && 5 !== '5' || 6 + 6
 //true && true || false && true || fasle
 //true || false || false
 //true
+console.log('a' !== 'A' && 3 * 3 === 9 || 4 < 4 && 10 / 2 === 5 || 8 === '8');
 
 // 100 / 10 === 10 && 7 === 7 || 3 * 2 !== 7 && 'hello' === 'hello' || 9 > 12
 //true && true || true && true || false
