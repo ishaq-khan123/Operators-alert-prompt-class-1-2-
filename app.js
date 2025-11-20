@@ -10,6 +10,7 @@ console.log(15 !== 15 && 8 * 2 !== 20 || 'hello' === 'world' && 10 > 15 || 6 ===
 //true && false || true && true || true
 //false || true || true
 //true
+console.log(9 > 8 && 3 + 7 === 11 || 4 !== '4' && 10 - 2 === 8 || 5 * 3 === 15);
 
 // 0 === false && 7 * 2 === 14 || 'True' === true && 5 !== '5' || 6 + 6 === 12
 //false && true || false && true || true
