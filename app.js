@@ -4,6 +4,7 @@ console.log("hello world");         // console is used for debuging
 //false && true || false && false || false
 // false || false || false
 //false
+console.log(15 !== 15 && 8 * 2 !== 20 || 'hello' === 'world' && 10 > 15 || 6 === '6');
 
 // 9 > 8 && 3 + 7 === 11 || 4 !== '4' && 10 - 2 === 8 || 5 * 3 === 15
 //true && false || true && true || true
