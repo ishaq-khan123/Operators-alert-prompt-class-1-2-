@@ -16,6 +16,7 @@ console.log(9 > 8 && 3 + 7 === 11 || 4 !== '4' && 10 - 2 === 8 || 5 * 3 === 15);
 //false && true || false && true || true
 //false || false ||true
 //true
+console.log(0 === false && 7 * 2 === 14 || 'True' === true && 5 !== '5' || 6 + 6 === 12);
 
 // 'a' !== 'A' && 3 * 3 === 9 || 4 < 4 && 10 / 2 === 5 || 8 === '8'
 //true && true || false && true || fasle
