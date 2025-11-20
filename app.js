@@ -44,7 +44,6 @@ console.log("hello world");         // console is used for debuging
 //false || true && true || true && true
 //false || true || true
 //true
-console.log(true && false || 4 * 2 === 8 && 'hello' === 'hello' || 5 !== '5' && 3 < 5);
 
 // false && true || 'red' === 'blue' && 5 + 5 === 10 || 6 === '6' && 9 > 8
 //false || false && true || false && true
