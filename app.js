@@ -28,6 +28,7 @@ console.log('a' !== 'A' && 3 * 3 === 9 || 4 < 4 && 10 / 2 === 5 || 8 === '8');
 //true && true || true && true || false
 //true || true ||false
 //true
+console.log(100 / 10 === 10 && 7 === 7 || 3 * 2 !== 7 && 'hello' === 'hello' || 9 > 12);
 
 // 20 / 4 === 5 && 3 + 5 === 8 || 8 === 8 && 'yes' !== 'YES' || 12 === '12'
 //true && true || true && true || false
